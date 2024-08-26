@@ -2,12 +2,12 @@
 
 ## Front-end Developer
 
-## My Contact Info
+## Contacts
 
 - E-mail: zateev.connects@gmail.com
 - Telegram: https://t.me/IlyaBaksonyan
 
-## About me
+## About
 
 Front-end development has been a focus for about 4-5 years. During the second year in technical school, build a project website, to learn TypeScript and Vue. Development process, lasted 6-8 months, involved solving numerous issues. After, worked with a friend for about 4 months to create a site for his bot. Taking role of front-end developer. But, unfortunately, the project was eventually abandoned. Currently, my focus is the SEO and accessibility.
 
