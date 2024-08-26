@@ -6,6 +6,7 @@
 
 - E-mail: zateev.connects@gmail.com
 - Telegram: https://t.me/IlyaBaksonyan
+- Discord: https://discord.com/users/267272431293431808/
 
 ## About
 
